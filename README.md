@@ -21,7 +21,7 @@ I will appreciate any review to improve.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL:(https://github.com/Hope-Akpan1/NFT-preview-card-component-solution)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
